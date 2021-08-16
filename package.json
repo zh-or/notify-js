@@ -1,0 +1,25 @@
+{
+  "name": "notify-js",
+  "version": "1.0.0",
+  "description": "promise notify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zh-or/notify-js.git"
+  },
+  "keywords": [
+    "notify",
+    "promise",
+    "wait",
+    "timeout"
+  ],
+  "author": "zh-or",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/zh-or/notify-js/issues"
+  },
+  "homepage": "https://github.com/zh-or/notify-js"
+}
