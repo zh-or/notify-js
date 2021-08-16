@@ -1,5 +1,5 @@
 {
-  "name": "notify-js",
+  "name": "js-notify",
   "version": "1.0.0",
   "description": "promise notify",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "timeout"
   ],
   "author": "zh-or",
-  "license": "",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/zh-or/notify-js/issues"
   },
