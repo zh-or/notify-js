@@ -1,5 +1,5 @@
 {
-  "name": "js-notify",
+  "name": "@zh-or/notify-js",
   "version": "1.0.0",
   "description": "promise notify",
   "main": "index.js",
