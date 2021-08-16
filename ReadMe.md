@@ -1,6 +1,6 @@
 ## 使用
 
-`
+```
 const TEST_KEY = 'TEST_KEY';
 notify.lock(TEST_KEY).wait(2000)
     .then(arg => {
@@ -14,4 +14,4 @@ notify.lock(TEST_KEY).wait(2000)
 //...
 
 notify.notify(TEST_KEY, {a: 1});
-`
+```
